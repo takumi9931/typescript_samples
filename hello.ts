@@ -31,4 +31,3 @@ console.log(id, typeof id)
 console.log(email, typeof email)
 console.log(isActive, typeof isActive)
 console.log(none, typeof none)
-aa
